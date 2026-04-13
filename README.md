@@ -127,7 +127,7 @@ change priority in automate.py file
  10. Return to start joint configuration
 ### ----------------------------------------------------- ###
 
-### Issues I facing:
+### Issues I'm facing:
 1. Due to my system limitation/computation my robotic arm is not picking the object in sometimes. 
 2. So,not able to do Detection Failure (Pick fails OR grasp fails)
 
