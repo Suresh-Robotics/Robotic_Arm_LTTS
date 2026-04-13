@@ -67,8 +67,8 @@ sudo apt install ros-humble-cv-bridge ros-humble-vision-opencv python3-opencv
 
 ### 2. Clone the Repository
 ~~~bash
-mkdir -p ~/ltts_ws/src
-cd ~/ltts_ws/src
+mkdir ~/ltts_ws/
+cd ~/ltts_ws/
 git clone https://github.com/Suresh-Robotics/Robotic_Arm_LTTS.git .
 ~~~
 ### 3. Build the Workspace
