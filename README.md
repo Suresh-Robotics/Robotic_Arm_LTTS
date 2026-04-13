@@ -141,7 +141,7 @@ change priority in automate.py file
 References video:
 1. https://www.youtube.com/watch?v=9GeyCgNqoDw
 2. https://www.youtube.com/watch?v=0N3B8FG0T1Y
-3. Robotic arm and openCV related videos
+3. Robotic arm,moveit,gazebo,openCV related videos
 
 Reference Links
 1. https://github.com/elena-ecn/pick-and-place
