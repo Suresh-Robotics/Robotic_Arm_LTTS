@@ -21,7 +21,7 @@ This project demonstrates a complete vision-based robotic manipulation system th
 
 The entire pipeline runs **autonomously** once launched.
 
-> **Note**: Detection failure and grasp failure handling is **not implemented** yet.
+> **Note**: Detection Failure(Pick fails OR grasp fails) **not implemented** yet.
 
 ---
 
@@ -132,7 +132,7 @@ change priority in automate.py file
 2. So,not able to do Detection Failure (Pick fails OR grasp fails)
 
 
-> **Note**: Detection failure and grasp failure handling is **not implemented** yet.
+> **Note**:  Detection Failure(Pick fails OR grasp fails) **not implemented** yet.
 
 ---
 
