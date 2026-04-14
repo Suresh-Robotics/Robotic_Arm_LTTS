@@ -14,14 +14,14 @@ This project demonstrates a complete vision-based robotic manipulation system th
 
 1. Creates Gazebo world and spawns Franka Emika Panda robot
 2. Uses camera + OpenCV for real-time color-based object detection
-3. Transforms object positions from `camera_link` to `ltts_joint_0` (robot base) using TF2
+3. Transforms object positions from `camera_link` to `ltts_link0` (robot base) using TF2
 4. MoveIt 2 plans collision-aware grasp and place trajectories
 5. ros2_control executes the motion in Gazebo simulation
 6. Automated pick-and-place for multiple colored objects
 
 The entire pipeline runs **autonomously** once launched.
 
-> **Note**: Detection Failure(Pick fails OR grasp fails) **not implemented** yet.
+> **Note**: Pick fails OR grasp fails **not implemented** yet.
 
 ---
 
@@ -132,7 +132,7 @@ change priority in automate.py file
 2. So,not able to do Detection Failure (Pick fails OR grasp fails)
 
 
-> **Note**:  Detection Failure(Pick fails OR grasp fails) **not implemented** yet.
+> **Note**:  Pick fails OR grasp fails **not implemented** yet.
 
 ---
 
