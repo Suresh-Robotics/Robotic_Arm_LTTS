@@ -21,7 +21,7 @@ This project demonstrates a complete vision-based robotic manipulation system th
 
 The entire pipeline runs **autonomously** once launched.
 
-> **Note**: Pick fails OR grasp fails **not implemented** yet.
+> **Note**: Pick/grasp fails **not implemented** yet.
 
 ---
 
@@ -129,10 +129,10 @@ change priority in automate.py file
 
 ### Issues I'm facing:
 1. Due to my system limitation/computation my robotic arm is not picking the object in sometimes. 
-2. So,not able to do Detection Failure (Pick fails OR grasp fails)
+2. So,not able to handle the Failure cases(Pick fails or grasp fails)
 
 
-> **Note**:  Pick fails OR grasp fails **not implemented** yet.
+> **Note**:  Pick/grasp fails **not implemented** yet.
 
 ---
 
